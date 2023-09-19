@@ -1,0 +1,248 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* 1st flexbox */
+.flex{
+  height: 350px;
+  width: 25%;
+  background-color: aliceblue;
+  text-transform: capitalize;
+  display: flex;
+
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-content: space-evenly;
+}
+.logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 30px;
+  width: 82%;
+  background-color: grey;
+  padding-left: 10px;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  width: 85%;
+  background-color: grey;
+}
+.head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 85%;
+  background-color: grey;
+}
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+  height: 170px;
+  width: 28%;
+  background-color: grey;
+}
+
+.barea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 170px;
+  width: 48%;
+  background-color: grey;
+ 
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 85%;
+  background-color: grey;
+}
+/* Second flexbox */
+.flex2{
+    height: 350px;
+    width: 25%;
+    background-color: aliceblue;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+  flex-wrap: wrap;
+  align-content: space-evenly;
+}
+.logo1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+    width: 85%;
+    background-color: grey;
+}
+.head1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 85%;
+  background-color: grey;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 85%;
+    background-color: grey;
+}
+.box1
+{
+height: 140px;
+width: 26%;
+background-color: grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.box2{
+    height: 140px;
+    width: 26%;
+    background-color: grey;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+   
+    align-items: center;
+}
+.box3{
+   height: 140px;
+   width: 26%;
+   background-color: grey;
+   margin-left: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.footer1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 85%;
+  background-color: grey;
+}
+/* Third flexbox */
+.flex3{
+  height: 350px;
+  width: 18%;
+  background-color: aliceblue;
+  text-transform: capitalize;
+  display: flex;
+  justify-content: space-evenly;
+flex-wrap: wrap;
+align-content: space-evenly;
+
+}
+.logo3{
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+    width: 93%;
+    background-color: grey;
+}
+.emptybox{
+  height: 40px;
+  width:49px;
+  background-color: grey;
+  /* margin: auto; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.boxx1{
+  width: 68px;
+  height: 50px;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 93%;
+  background-color: grey;
+}
+.flex4{
+  /* height: 350px; */
+  width: 25%;
+  background-color: aliceblue;
+  text-transform: capitalize;
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  align-content: space-evenly;
+flex-wrap: wrap;
+
+}
+.logo4{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 91%;
+    background-color: grey;
+}
+.side{
+  width:13%;
+  height:40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.head4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  width: 50%;
+  background-color: grey;
+}
+.emp{
+  width: 30%;
+  background-color: aqua;
+
+}
+.barea4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 150px;
+  width: 63%;
+  background-color: grey;
+  align-self: flex-start;
+}
+.footer4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 93%;
+  background-color: grey;
+}
